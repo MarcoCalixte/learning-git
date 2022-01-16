@@ -1,3 +1,4 @@
 # learning-git
 
-Learning how to use git from Amigoscode
+Learning how to use git with Amigoscode
+.
